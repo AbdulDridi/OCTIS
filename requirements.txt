@@ -1,4 +1,4 @@
-gensim==4.3.1
+gensim>=4.3.0
 nltk
 pandas
 spacy

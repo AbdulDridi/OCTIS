@@ -1,4 +1,4 @@
-git+https://github.com/piskvorky/gensim#egg=gensim
+gensim==4.3.1
 nltk
 pandas
 spacy
